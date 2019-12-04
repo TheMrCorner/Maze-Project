@@ -1,0 +1,4 @@
+Mapa del laberinto que se va escribiendo
+Tinta limitada, ir recuperándola 
+Vista topdown y antorchas para ver 
+Vista primera persona, interfaz doom 2 o de ese estilo 
